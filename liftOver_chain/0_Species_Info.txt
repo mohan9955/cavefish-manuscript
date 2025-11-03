@@ -1,0 +1,12 @@
+astMexS3	Astyanax mexicanus (Surface)
+astMexP3	Astyanax mexicanus (Cave)
+pygNat	Pygocentrus nattereri
+ictPun	Ictalurus punctatus
+danRer10	Danio rerio
+cluHar	Clupea harengus
+denClu	Denticeps clupeoides
+esoLuc	Esox lucius
+larCro	Larimichthys crocea
+sclFor	Scleropages formosus
+gasAcu	Gasterosteus aculeatus aculeatus
+takRub	Takifugu rubripes
